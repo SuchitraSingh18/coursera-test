@@ -25,7 +25,7 @@
   }
   
   .wrap {
-    background-color: pink;
+    background-color: lightgray;
     border: 1px solid black;
     float: left;
     margin: 10px;
@@ -52,7 +52,7 @@
   }
   
   #title2 {
-    background-color: #50556e;
+    background-color: deeppink;
     border: 1px solid black;
     color: yellow;
   
