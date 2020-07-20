@@ -1,2 +1,2 @@
-# Module5 Solution
- Coursera Module 5 Assignment
+# mod5_solution
+Week 5 assignment
